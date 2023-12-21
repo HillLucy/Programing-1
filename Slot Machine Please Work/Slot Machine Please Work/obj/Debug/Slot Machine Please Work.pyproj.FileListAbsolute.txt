@@ -1,0 +1,12 @@
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\obj\Debug\Slot Machine Please Work.pyprojResolveAssemblyReference.cache
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\obj\Debug\Slot_Machine_Please_Work.MainForm.resources
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\obj\Debug\Slot Machine Please Work.pyproj.GenerateResource.Cache
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\bin\Debug\Slot Machine Please Work.exe.config
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\bin\Debug\Slot Machine Please Work.exe
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\bin\Debug\Slot Machine Please Work.dll
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\bin\Debug\IronPython.dll
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\bin\Debug\IronPython.Modules.dll
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\bin\Debug\Microsoft.Scripting.dll
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\hill.l1\Desktop\Programing 1\Slot Machine Please Work\Slot Machine Please Work\obj\Debug\Slot Machine Please Work.exe

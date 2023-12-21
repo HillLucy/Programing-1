@@ -1,0 +1,12 @@
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\obj\Debug\Pg140.pyprojResolveAssemblyReference.cache
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\obj\Debug\Pg140.MainForm.resources
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\obj\Debug\Pg140.pyproj.GenerateResource.Cache
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\bin\Debug\Pg140.exe.config
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\bin\Debug\Pg140.exe
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\bin\Debug\Pg140.dll
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\bin\Debug\IronPython.dll
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\bin\Debug\IronPython.Modules.dll
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\bin\Debug\Microsoft.Scripting.dll
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\hill.l1\Desktop\Programing 1\Pg140\Pg140\obj\Debug\Pg140.exe

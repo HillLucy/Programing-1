@@ -1,0 +1,10 @@
+C:\Users\hill.l1\Desktop\Programing 1\pongfrfr\pongfrfr\obj\Debug\pongfrfr.pyprojResolveAssemblyReference.cache
+C:\Users\hill.l1\Desktop\Programing 1\pongfrfr\pongfrfr\bin\Debug\pongfrfr.exe.config
+C:\Users\hill.l1\Desktop\Programing 1\pongfrfr\pongfrfr\bin\Debug\pongfrfr.exe
+C:\Users\hill.l1\Desktop\Programing 1\pongfrfr\pongfrfr\bin\Debug\pongfrfr.dll
+C:\Users\hill.l1\Desktop\Programing 1\pongfrfr\pongfrfr\bin\Debug\IronPython.dll
+C:\Users\hill.l1\Desktop\Programing 1\pongfrfr\pongfrfr\bin\Debug\IronPython.Modules.dll
+C:\Users\hill.l1\Desktop\Programing 1\pongfrfr\pongfrfr\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\hill.l1\Desktop\Programing 1\pongfrfr\pongfrfr\bin\Debug\Microsoft.Scripting.dll
+C:\Users\hill.l1\Desktop\Programing 1\pongfrfr\pongfrfr\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\hill.l1\Desktop\Programing 1\pongfrfr\pongfrfr\obj\Debug\pongfrfr.exe
